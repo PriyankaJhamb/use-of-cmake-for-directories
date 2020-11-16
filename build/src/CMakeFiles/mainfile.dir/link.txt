@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/mainfile.dir/main.cpp.o  -o mainfile ../include/libLIBRARY.a 
