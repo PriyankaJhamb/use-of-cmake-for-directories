@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/cmake.dir/use.cpp.o  -o cmake 
